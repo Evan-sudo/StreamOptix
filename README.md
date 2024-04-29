@@ -27,7 +27,7 @@ Fig. 2: Visualizations of the distortion patterns captured in StreamOptix
 MATLAB 2023a; Python>=3.8; Matlab.engine.
 
 ## Startup
-Run different ABRs on StreamOptix, you can choose any ABR from [mpc, bb, bola, rb, HYB], i.e., mpc:
+To run different ABRs on StreamOptix, you can choose any ABR from [mpc, bb, bola, rb, HYB], i.e., mpc:
 ```
 python mpc.py
 ```
