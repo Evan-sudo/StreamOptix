@@ -11,9 +11,7 @@ into three subproblems and propose a three-level closed-loop optimization framew
 link capacities from PHY; 2) a video-aware resource allocation scheme under APP bitrate constraint; and 3) a novel link adaptation
 scheme based on soft acknowledgment feedback (soft-ACK). Simultaneously, our framework enables to collect the distorted bitstreams
 transmitted across the link. This allows a more reasonable assessment of video quality compared to most existing ABRs, which
-overlooks the distortions occurring at PHY. Experiments conduct in different network settings illustrate the effectiveness and superiority
-of our cross-layer optimization strategy. Furthermore, StreamOptix provides more comprehensive metrics on video delivery, indicating
-the promise of our system for multimodal communication in the future.
+overlooks the distortions occurring at PHY. 
 
 ![image](/img/structure.png)
 Fig. 1: A schematic diagram of the cross layer adaptive video delivery system.
